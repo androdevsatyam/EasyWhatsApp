@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blue Pad</string>
+    <string name="service_msg" >Turn On Accessibility</string>
+</resources>
